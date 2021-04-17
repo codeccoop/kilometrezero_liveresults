@@ -1,0 +1,617 @@
+{
+    "clasificacion": {
+        "colnames": [
+            "Dorsal",
+            "Nombre del participante",
+            "P.Gen.",
+            "Categoría",
+            "P.Cat.",
+            "Tiempo",
+            "Estado"
+        ],
+        "colmodel": [
+            {
+                "name": "Dorsal",
+                "index": "Dorsal",
+                "align": "center",
+                "width": 30,
+                "sortable": true,
+                "title": false,
+                "sorttype": "number"
+            },
+            {
+                "name": "NombreParticipante",
+                "index": "NombreParticipante",
+                "align": "left",
+                "width": 150,
+                "sortable": true,
+                "title": false
+            },
+            {
+                "name": "PosGeneral",
+                "index": "PosGeneral",
+                "align": "center",
+                "width": 30,
+                "sortable": true,
+                "title": false,
+                "sorttype": "number"
+            },
+            {
+                "name": "Categoria",
+                "index": "Categoria",
+                "align": "left",
+                "width": 80,
+                "sortable": true,
+                "title": false
+            },
+            {
+                "name": "PosCategoria",
+                "index": "PosCategoria",
+                "align": "center",
+                "width": 30,
+                "sortable": true,
+                "title": false,
+                "sorttype": "number"
+            },
+            {
+                "name": "Tiempo",
+                "index": "Tiempo",
+                "align": "center",
+                "width": 65,
+                "sortable": true,
+                "title": false
+            },
+            {
+                "name": "Estado",
+                "index": "Estado",
+                "align": "left",
+                "width": 60,
+                "sortable": true,
+                "title": false
+            }
+        ],
+        "sortname": "PosGeneral",
+        "datos": [
+            [
+                1,
+                " MARIA NIEVES TORRES FERNANDEZ",
+                1,
+                "Absoluto-F",
+                1,
+                "00h00m21s",
+                "&lt;Finalizado&gt;"
+            ],
+            [
+                2,
+                " AARON MORALES TORRES",
+                2,
+                "Absoluto-M",
+                1,
+                "00h00m25s",
+                "&lt;Finalizado&gt;"
+            ],
+            [
+                3,
+                " FRANCESC MARTIN LACHICA",
+                3,
+                "Absoluto-M",
+                2,
+                "00h00m25s",
+                "&lt;Finalizado&gt;"
+            ],
+            [
+                4,
+                " MARC MARTIN CAÑADAS",
+                4,
+                "Infantil-M",
+                1,
+                "00h00m26s",
+                "&lt;Finalizado&gt;"
+            ],
+            [
+                5,
+                " ALBERTO ROSICH SANZ",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                6,
+                " DAVID GORDILLO MONTAÑO",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                7,
+                " MIREIA GORDILLO",
+                0,
+                "Infantil-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                8,
+                " ENRIQUE CAÑADAS CASTILLO",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                9,
+                " DANIELA CAÑADAS LOPEZ",
+                0,
+                "Infantil-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                10,
+                " SEBASTIAN REGANZON BARRAGAN",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                11,
+                " NATALIA REGANZON GIMÉNEZ",
+                0,
+                "Infantil-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                12,
+                " MARIA STARKOVA",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                13,
+                " ARTURO SOLER",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                14,
+                " VIRGINIA LOPEZ JIMENEZ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                15,
+                "CLAUDIO ",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                16,
+                " SARA MARIA JIMENEZ GONZALEZ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                17,
+                " MONSERRAT ALCANTARA GOMEZ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                18,
+                " MARIA MEDINA FUSTÉ",
+                0,
+                "Infantil-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                19,
+                " FRANCISCA GÓMEZ ESPAÑA",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                20,
+                " LUCIA GUTIERRES ARAUJO",
+                0,
+                "Infantil-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                21,
+                " MARTA DE PALOL HERRERO",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                22,
+                "JUAN ",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                23,
+                "INGRID ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                24,
+                "JUDITH ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                25,
+                " JAVIER MARTÍNEZ ZALACAÍN",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                26,
+                " AVRIL MARTÍNEZ",
+                0,
+                "Infantil-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                27,
+                " PAU MARTÍNEZ SAYAS",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                28,
+                " ARAN FONT MARTÍNEZ",
+                0,
+                "Infantil-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                29,
+                " MIRIAM MAÑER ASENSIO",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                30,
+                " ALBERT ALSINA MAÑER",
+                0,
+                "Infantil-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                31,
+                " ANNA ALSINA MAÑER",
+                0,
+                "Infantil-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                32,
+                " JAVIER FERNÁNDEZ MANTECA",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                33,
+                " JESÚS RODRÍGUEZ",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                34,
+                " SANDRA DE LA RICA VAZQUEZ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                35,
+                " ALBERTO RODRIGUEZ MATE",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                36,
+                " JOSE COBO",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                37,
+                " ANA BELÉN RODRIGUEZ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                38,
+                " RAÚL COBO RODRIGUEZ",
+                0,
+                "Absoluto-M",
+                0,
+                "",
+                ""
+            ],
+            [
+                39,
+                " NANCY ESCOBAR",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                40,
+                "MARICEL DEL MAR ",
+                0,
+                "Absoluto-F",
+                0,
+                "",
+                ""
+            ],
+            [
+                41,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                42,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                43,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                44,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                45,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                46,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                47,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                48,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                49,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                50,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                51,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                52,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                53,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                54,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                55,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                56,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                57,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                58,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                59,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ],
+            [
+                60,
+                " Dorsal",
+                0,
+                "",
+                0,
+                "",
+                ""
+            ]
+        ]
+    }
+}

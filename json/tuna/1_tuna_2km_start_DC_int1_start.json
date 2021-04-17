@@ -1,0 +1,1036 @@
+﻿{
+  "clasificacion": {
+    "colnames": [
+      "Dorsal",
+      "Nombre del participante",
+      "P.Gen.",
+      "Categoría",
+      "P.Cat.",
+      "Tiempo",
+      "Estado",
+      "Nombre Carrera"
+    ],
+    "colmodel": [
+      {
+        "name": "Dorsal",
+        "index": "Dorsal",
+        "align": "center",
+        "width": 30,
+        "sortable": true,
+        "title": false,
+        "sorttype": "number"
+      },
+      {
+        "name": "NombreParticipante",
+        "index": "NombreParticipante",
+        "align": "left",
+        "width": 150,
+        "sortable": true,
+        "title": false
+      },
+      {
+        "name": "PosGeneral",
+        "index": "PosGeneral",
+        "align": "center",
+        "width": 30,
+        "sortable": true,
+        "title": false,
+        "sorttype": "number"
+      },
+      {
+        "name": "Categoria",
+        "index": "Categoria",
+        "align": "left",
+        "width": 80,
+        "sortable": true,
+        "title": false
+      },
+      {
+        "name": "PosCategoria",
+        "index": "PosCategoria",
+        "align": "center",
+        "width": 30,
+        "sortable": true,
+        "title": false,
+        "sorttype": "number"
+      },
+      {
+        "name": "Tiempo",
+        "index": "Tiempo",
+        "align": "center",
+        "width": 65,
+        "sortable": true,
+        "title": false
+      },
+      {
+        "name": "Estado",
+        "index": "Estado",
+        "align": "left",
+        "width": 60,
+        "sortable": true,
+        "title": false
+      },
+      {
+        "name": "NombreCarrera",
+        "index": "NombreCarrera",
+        "align": "center",
+        "width": 65,
+        "sortable": true,
+        "title": false
+      }
+    ],
+    "sortname": "PosGeneral",
+    "datos": [
+      [
+        2,
+        "Ester Cruz Sánchez",
+        0,
+        "Sub40 ",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        3,
+        "Daniel Baena Mirabete",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        4,
+        "Marta Segura Rius",
+        0,
+        "Sub40 ",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        5,
+        "Lluis  Tort Feliu",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        6,
+        "Juan María Jimenez Llorens",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        7,
+        "Pedro Lopez Castillo",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        8,
+        "Davinia Chulio Fuster",
+        0,
+        "Sub40 ",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        9,
+        "Massimo Fontana ",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        10,
+        "Aitor Rego Navarro",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        11,
+        "òscar Pastor",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        12,
+        "José Prats Ferrer",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        13,
+        "Lucía Negredo ",
+        0,
+        "Sub + º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        14,
+        "Fermín Gimeno",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        15,
+        "Carlos  Villalta",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        16,
+        "Miquel De Pedro Col",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        17,
+        "María José  Higueras Martínez ",
+        0,
+        "Sub + º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        18,
+        "Trini Rodríguez Padilla ",
+        0,
+        "Sub + º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        19,
+        "Francesc Lopez Bru",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        20,
+        "Jordi Regadera Verges",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        21,
+        "Alberto Ballesta Alonso",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        22,
+        "Manuel Martinez Muñoz",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        23,
+        "Enrique Carballo Gil",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        24,
+        "José Antonio  Vivas González ",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        25,
+        "Raül  Garrido Medina",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        26,
+        "David Rodriguez Barbosa",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        27,
+        "Elisabet Cano Ramírez",
+        0,
+        "Sub + º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        28,
+        "Juan Carlos Rodríguez De Haro ",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        29,
+        "áfrica  Camps Novella",
+        0,
+        "Sub + º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        30,
+        "Gerard García Iglesias",
+        0,
+        "Sub+º",
+        0,
+        "",
+        "",
+        "Tuna-2,5km"
+      ],
+      [
+        51,
+        "Jose Luis  Castaño Gascón ",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        52,
+        "Maria  Alonso Romero",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        53,
+        "Mar Barral Gonzalves",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        54,
+        "Miriam Jimenez Fernández",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        55,
+        "Elisabet Hernández Corral ",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        56,
+        "Montse Peñaranda Claramunt",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        57,
+        "Ernesto Millán De Prado",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        58,
+        "Manuel García Molina",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        59,
+        "Victor Gimenez Gurt",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        60,
+        "Helena Vila",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        61,
+        "Núria Vila Gállego",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        62,
+        "Natty Iraheta Gallegos",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        63,
+        "Josefa Blanco Estrada",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        64,
+        "Jesús Serra Giró",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        65,
+        "Maria Checa Sierra",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        66,
+        "Núria Magdalena Rodriguez",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        67,
+        "Jose Luis Martín González",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        68,
+        "Jordi Sanchez Garcia",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        69,
+        "Mercedes Cruz Martinez",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        70,
+        "Alberto Benavides",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        71,
+        "Xavi Nolla Nieto",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        72,
+        "Laura Mascareña Santander",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        73,
+        "Raul Juberias Bertolin",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        74,
+        "Manuel Cerdan Hernandez",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        75,
+        "Joana Diaz Marin",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        76,
+        "Jordi Merlos",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        77,
+        "Eulo Redondo",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        78,
+        "Manuel Flores Navajón",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        79,
+        "Francisco Ortega Moreno",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        80,
+        "Catalina Serrano Granados",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        81,
+        "Arantza Ortega Serrano",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        82,
+        "Domingo De San Eusebio Hernandez",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        83,
+        "Ricardo Bellavista Vertedor",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        84,
+        "Urgell Vernet Graell",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        85,
+        "Pau Lepage Exposito",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        86,
+        "Sofía  Al-khatib Shahin",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        87,
+        "Alberto Saballs Muelas",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        88,
+        "Oscar Rufete Castañe",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        89,
+        "Adamian Rovira Rodríguez",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        90,
+        "Laura Ubalde Peiro",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        91,
+        "Marta Segu  Belchi",
+        0,
+        "Sub+",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        92,
+        "Javier  José Casado",
+        0,
+        "Sub40",
+        0,
+        "",
+        "&lt;NoEmpezado&gt;",
+        "Tuna-5km"
+      ],
+      [
+        401,
+        "Raquel Arredondo García",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        402,
+        "David  Segarra Verdu",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        403,
+        "Xisca Pericas Martorell",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        404,
+        "Juan José Torres Monreal",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        405,
+        "Juanjo Castro Martínez",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        406,
+        "José Fernández Domínguez",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        407,
+        "Imma Moron García",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        408,
+        "David  Galan Uroz",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        409,
+        "Esperanza  Blazquez Biosca",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        410,
+        "Manel Marcos Solias",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        411,
+        "Sergio Riquelme Roig",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        412,
+        "David  Pestana Lunate",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        413,
+        "Veronica Vaquero Serrano",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        414,
+        "Norma  Bernal Acosta",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        415,
+        "Eladi Rodrigo De Losada",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        416,
+        "Javier Munuera Díaz",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        417,
+        "Felix Panadero Martínez",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        418,
+        "Raquel Cordoba Cañete",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        419,
+        "José Miguel  Uribe Molina",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        420,
+        "Juan Carlos Galan Miró",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        421,
+        "Jose Manuel Conejero Duque",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        422,
+        "Antonio Rienda Sánchez",
+        0,
+        "Sub+",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        423,
+        "Andreu Simon Aymerich",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ],
+      [
+        424,
+        "Carlos Martínez Belmonte",
+        0,
+        "Sub40",
+        0,
+        "",
+        "",
+        "Tuna-DC"
+      ]
+    ]
+  }
+}

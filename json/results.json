@@ -1,0 +1,3218 @@
+{
+  "clasificacion": {
+    "colnames": [
+      "Dorsal",
+      "Nombre del participante",
+      "P.Gen.",
+      "Categoría",
+      "P.Cat.",
+      "Tiempo",
+      "Estado"
+    ],
+    "colmodel": [
+      {
+        "name": "Dorsal",
+        "index": "Dorsal",
+        "align": "center",
+        "width": 30,
+        "sortable": true,
+        "title": false,
+        "sorttype": "number"
+      },
+      {
+        "name": "NombreParticipante",
+        "index": "NombreParticipante",
+        "align": "left",
+        "width": 150,
+        "sortable": true,
+        "title": false
+      },
+      {
+        "name": "PosGeneral",
+        "index": "PosGeneral",
+        "align": "center",
+        "width": 30,
+        "sortable": true,
+        "title": false,
+        "sorttype": "number"
+      },
+      {
+        "name": "Categoria",
+        "index": "Categoria",
+        "align": "left",
+        "width": 80,
+        "sortable": true,
+        "title": false
+      },
+      {
+        "name": "PosCategoria",
+        "index": "PosCategoria",
+        "align": "center",
+        "width": 30,
+        "sortable": true,
+        "title": false,
+        "sorttype": "number"
+      },
+      {
+        "name": "Tiempo",
+        "index": "Tiempo",
+        "align": "center",
+        "width": 65,
+        "sortable": true,
+        "title": false
+      },
+      {
+        "name": "Estado",
+        "index": "Estado",
+        "align": "left",
+        "width": 60,
+        "sortable": true,
+        "title": false
+      }
+    ],
+    "sortname": "PosGeneral",
+    "datos": [
+      [
+        1,
+        "Javier Paniello Rodríguez",
+        1,
+        "SÈN M",
+        1,
+        "00h52m12s",
+        "Finalizado"
+      ],
+      [
+        2,
+        "Marta Segura Rius",
+        58,
+        "SÈN F",
+        3,
+        "01h07m58s",
+        "Finalizado"
+      ],
+      [
+        3,
+        "Ester Cruz Sánchez",
+        53,
+        "SÈN F",
+        2,
+        "01h06m57s",
+        "Finalizado"
+      ],
+      [
+        4,
+        "Daniel Baena Mirabete",
+        2,
+        "SÈN M",
+        2,
+        "00h53m40s",
+        "Finalizado"
+      ],
+      [
+        5,
+        "Vicente De La Torre Blanca",
+        264,
+        "MÀS M",
+        57,
+        "01h36m42s",
+        "Finalizado"
+      ],
+      [
+        6,
+        "David Serres Olmeda",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        7,
+        "Joan Chiva Codina",
+        104,
+        "VET M",
+        44,
+        "01h13m01s",
+        "Finalizado"
+      ],
+      [
+        8,
+        "José Prats Ferrer",
+        190,
+        "MÀS M",
+        41,
+        "01h22m12s",
+        "Finalizado"
+      ],
+      [
+        9,
+        "Manuel Flores Navajon",
+        191,
+        "VET M",
+        80,
+        "01h22m27s",
+        "Finalizado"
+      ],
+      [
+        10,
+        "Xavier Garriga Andreu",
+        165,
+        "VET M",
+        68,
+        "01h18m51s",
+        "Finalizado"
+      ],
+      [
+        11,
+        "Manuel Ceballos Rosa",
+        22,
+        "MÀS M",
+        3,
+        "01h00m48s",
+        "Finalizado"
+      ],
+      [
+        12,
+        "Raul Nuñez Bermudez",
+        202,
+        "VET M",
+        83,
+        "01h23m51s",
+        "Finalizado"
+      ],
+      [
+        13,
+        "Juan Carlos Rivera Jiménez",
+        59,
+        "SÈN M",
+        29,
+        "01h08m00s",
+        "Finalizado"
+      ],
+      [
+        14,
+        "Xavi Nolla Nieto",
+        270,
+        "SÈN M",
+        63,
+        "01h38m40s",
+        "Finalizado"
+      ],
+      [
+        15,
+        "Laura Mascareña Santander",
+        271,
+        "SÈN M",
+        64,
+        "01h38m40s",
+        "Finalizado"
+      ],
+      [
+        16,
+        "Tomas Cid Martinez",
+        78,
+        "VET M",
+        30,
+        "01h10m18s",
+        "Finalizado"
+      ],
+      [
+        17,
+        "Victor Gimenez Gurt",
+        215,
+        "MÀS M",
+        46,
+        "01h25m57s",
+        "Finalizado"
+      ],
+      [
+        18,
+        "Paco Muñoz Linares",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        19,
+        "Inocencio López López",
+        47,
+        "MÀS M",
+        6,
+        "01h05m56s",
+        "Finalizado"
+      ],
+      [
+        20,
+        "José Antonio Vivas Gonzalez",
+        95,
+        "MÀS M",
+        14,
+        "01h12m04s",
+        "Finalizado"
+      ],
+      [
+        21,
+        "Sergio Ruiz Zaragoza",
+        96,
+        "SÈN M",
+        36,
+        "01h12m05s",
+        "Finalizado"
+      ],
+      [
+        22,
+        "Félix Bataller Rivas",
+        27,
+        "SÈN M",
+        14,
+        "01h01m59s",
+        "Finalizado"
+      ],
+      [
+        23,
+        "Esther Daza Macaya",
+        208,
+        "VET F",
+        13,
+        "01h24m50s",
+        "Finalizado"
+      ],
+      [
+        24,
+        "Anna Sánchez López",
+        237,
+        "VET F",
+        16,
+        "01h30m51s",
+        "Finalizado"
+      ],
+      [
+        25,
+        "Marta Galván Torres",
+        236,
+        "SÈN F",
+        15,
+        "01h30m51s",
+        "Finalizado"
+      ],
+      [
+        26,
+        "Roberto Domingo Royuela",
+        166,
+        "VET M",
+        69,
+        "01h18m59s",
+        "Finalizado"
+      ],
+      [
+        27,
+        "Albert Obiols Vives",
+        242,
+        "VET M",
+        98,
+        "01h31m21s",
+        "Finalizado"
+      ],
+      [
+        28,
+        "David Bruguera Perez",
+        117,
+        "VET M",
+        50,
+        "01h14m25s",
+        "Finalizado"
+      ],
+      [
+        29,
+        "Javier Munuera Díaz",
+        13,
+        "VET M",
+        5,
+        "00h58m30s",
+        "Finalizado"
+      ],
+      [
+        30,
+        "Antonio Vicente Escalona",
+        44,
+        "SÈN M",
+        24,
+        "01h05m27s",
+        "Finalizado"
+      ],
+      [
+        31,
+        "Juan Carlos Ortiz Mirabete",
+        112,
+        "VET M",
+        48,
+        "01h14m06s",
+        "Finalizado"
+      ],
+      [
+        32,
+        "Montse Peñaranda Claramunt",
+        288,
+        "VET F",
+        29,
+        "01h45m05s",
+        "Finalizado"
+      ],
+      [
+        33,
+        "Raul Juberias Bertolin",
+        153,
+        "VET M",
+        65,
+        "01h17m47s",
+        "Finalizado"
+      ],
+      [
+        34,
+        "Aida Paisano Mestre",
+        169,
+        "SÈN F",
+        7,
+        "01h19m05s",
+        "Finalizado"
+      ],
+      [
+        35,
+        "Carlos Lorenzo Moya",
+        168,
+        "VET M",
+        70,
+        "01h19m04s",
+        "Finalizado"
+      ],
+      [
+        36,
+        "Irene Jimenez Serrano",
+        228,
+        "SÈN F",
+        13,
+        "01h29m06s",
+        "Finalizado"
+      ],
+      [
+        37,
+        "Josefa Blanco Estrada",
+        229,
+        "SÈN F",
+        14,
+        "01h29m06s",
+        "Finalizado"
+      ],
+      [
+        38,
+        "David Sánchez Pablo",
+        285,
+        "VET M",
+        104,
+        "01h43m55s",
+        "Finalizado"
+      ],
+      [
+        39,
+        "Joana Diaz Marin",
+        234,
+        "VET F",
+        15,
+        "01h30m34s",
+        "Finalizado"
+      ],
+      [
+        40,
+        "Domingo De San Eusebio Hernandez",
+        97,
+        "MÀS M",
+        15,
+        "01h12m09s",
+        "Finalizado"
+      ],
+      [
+        41,
+        "Vicenç Esteve Perez",
+        263,
+        "VET M",
+        101,
+        "01h36m40s",
+        "Finalizado"
+      ],
+      [
+        42,
+        "Alberto Alcaraz Puig",
+        145,
+        "VET M",
+        60,
+        "01h16m34s",
+        "Finalizado"
+      ],
+      [
+        43,
+        "Manuel García Molina",
+        135,
+        "SÈN M",
+        47,
+        "01h15m46s",
+        "Finalizado"
+      ],
+      [
+        44,
+        "Juanma Fernandez Gonzalez",
+        114,
+        "VET M",
+        49,
+        "01h14m06s",
+        "Finalizado"
+      ],
+      [
+        45,
+        "Carles Boira Buisan",
+        155,
+        "MÀS M",
+        27,
+        "01h17m54s",
+        "Finalizado"
+      ],
+      [
+        46,
+        "Carme Auñon Sanz",
+        66,
+        "VET F",
+        1,
+        "01h08m35s",
+        "Finalizado"
+      ],
+      [
+        47,
+        "Juan Carlos Rodríguez De Haro",
+        174,
+        "MÀS M",
+        35,
+        "01h19m46s",
+        "Finalizado"
+      ],
+      [
+        48,
+        "áfrica Camps Novella",
+        277,
+        "VET F",
+        23,
+        "01h40m21s",
+        "Finalizado"
+      ],
+      [
+        49,
+        "Adamian Rovira Rodriguez",
+        139,
+        "VET M",
+        56,
+        "01h16m09s",
+        "Finalizado"
+      ],
+      [
+        50,
+        "David Sánchez Ponsa",
+        60,
+        "VET M",
+        20,
+        "01h08m01s",
+        "Finalizado"
+      ],
+      [
+        51,
+        "Francesc Vilanova Parellada",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        52,
+        "Marta Domenech Amoros",
+        303,
+        "SÈN F",
+        22,
+        "01h54m30s",
+        "Finalizado"
+      ],
+      [
+        53,
+        "Toni Domenech Massague",
+        304,
+        "MÀS M",
+        66,
+        "01h54m30s",
+        "Finalizado"
+      ],
+      [
+        54,
+        "Ricard Gallart Sala",
+        154,
+        "MÀS M",
+        26,
+        "01h17m49s",
+        "Finalizado"
+      ],
+      [
+        55,
+        "Juanma Calahorro Pérez",
+        100,
+        "VET M",
+        41,
+        "01h12m29s",
+        "Finalizado"
+      ],
+      [
+        56,
+        "Xavier Pérez Ovejero",
+        89,
+        "MÀS M",
+        13,
+        "01h11m32s",
+        "Finalizado"
+      ],
+      [
+        57,
+        "Jona Rodríguez Diaz",
+        46,
+        "SÈN M",
+        25,
+        "01h05m43s",
+        "Finalizado"
+      ],
+      [
+        58,
+        "Manolo Mora Díaz",
+        55,
+        "VET M",
+        18,
+        "01h07m24s",
+        "Finalizado"
+      ],
+      [
+        59,
+        "Caterina Garcia Segura",
+        251,
+        "MÀS F",
+        5,
+        "01h33m34s",
+        "Finalizado"
+      ],
+      [
+        60,
+        "Xavier Amengual Real",
+        197,
+        "MÀS M",
+        42,
+        "01h23m14s",
+        "Finalizado"
+      ],
+      [
+        61,
+        "Francisco Javier Cuesta Obregón",
+        204,
+        "MÀS M",
+        44,
+        "01h24m02s",
+        "Finalizado"
+      ],
+      [
+        62,
+        "Jose Maria Ferrer Hidalgo",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        63,
+        "Conxa Coca Cumellas",
+        119,
+        "MÀS F",
+        1,
+        "01h14m30s",
+        "Finalizado"
+      ],
+      [
+        64,
+        "Ana Sanchez Vilchez",
+        235,
+        "MÀS F",
+        3,
+        "01h30m48s",
+        "Finalizado"
+      ],
+      [
+        65,
+        "Jordi Serrano Molina",
+        14,
+        "VET M",
+        6,
+        "00h58m50s",
+        "Finalizado"
+      ],
+      [
+        66,
+        "Silvia Gomez Campos",
+        158,
+        "VET F",
+        9,
+        "01h18m06s",
+        "Finalizado"
+      ],
+      [
+        67,
+        "Jesus Ramirez Cuevas",
+        182,
+        "VET M",
+        76,
+        "01h21m08s",
+        "Finalizado"
+      ],
+      [
+        68,
+        "Sergio Serrano Domínguez",
+        77,
+        "VET M",
+        29,
+        "01h10m14s",
+        "Finalizado"
+      ],
+      [
+        69,
+        "Carlos Gonzalez Blanco",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        70,
+        "Núria Magdalena Rodriguez",
+        138,
+        "VET F",
+        7,
+        "01h15m58s",
+        "Finalizado"
+      ],
+      [
+        71,
+        "Esteban Barbancho Marmol",
+        205,
+        "MÀS M",
+        45,
+        "01h24m13s",
+        "Finalizado"
+      ],
+      [
+        72,
+        "Gerard García Iglesias",
+        147,
+        "MÀS M",
+        25,
+        "01h16m45s",
+        "Finalizado"
+      ],
+      [
+        73,
+        "Montserrat Parera Bayó",
+        93,
+        "VET F",
+        3,
+        "01h11m58s",
+        "Finalizado"
+      ],
+      [
+        74,
+        "Jordi Obiols Fornell",
+        137,
+        "VET M",
+        55,
+        "01h15m51s",
+        "Finalizado"
+      ],
+      [
+        75,
+        "Miguel Ramón Masip Masip",
+        134,
+        "MÀS M",
+        24,
+        "01h15m43s",
+        "Finalizado"
+      ],
+      [
+        76,
+        "Pablo Pareja Alcaraz",
+        250,
+        "SÈN M",
+        60,
+        "01h33m34s",
+        "Finalizado"
+      ],
+      [
+        77,
+        "Ignasi Sesé Povill",
+        130,
+        "SÈN M",
+        46,
+        "01h15m30s",
+        "Finalizado"
+      ],
+      [
+        78,
+        "Ricardo Bellavista Vertedor",
+        162,
+        "MÀS M",
+        31,
+        "01h18m35s",
+        "Finalizado"
+      ],
+      [
+        79,
+        "Jordi Moya Sanchez",
+        149,
+        "VET M",
+        62,
+        "01h17m10s",
+        "Finalizado"
+      ],
+      [
+        80,
+        "Jordi Albertí Esteve",
+        131,
+        "VET M",
+        54,
+        "01h15m34s",
+        "Finalizado"
+      ],
+      [
+        81,
+        "David Pérez Gómez",
+        240,
+        "VET M",
+        97,
+        "01h31m12s",
+        "Finalizado"
+      ],
+      [
+        82,
+        "Marc Parra Rodriguez",
+        0,
+        "SÈN M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        83,
+        "Dolores Escobar  Quesada",
+        0,
+        "VET F",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        84,
+        "Esteban Teruel Martínez",
+        265,
+        "VET M",
+        102,
+        "01h36m59s",
+        "Finalizado"
+      ],
+      [
+        85,
+        "Alberto Ramiro Leon",
+        150,
+        "VET M",
+        63,
+        "01h17m14s",
+        "Finalizado"
+      ],
+      [
+        86,
+        "Javi Nagarro Galindo",
+        295,
+        "MÀS M",
+        65,
+        "01h50m54s",
+        "Finalizado"
+      ],
+      [
+        87,
+        "Paqui Ordoñez Martin",
+        297,
+        "VET F",
+        30,
+        "01h50m54s",
+        "Finalizado"
+      ],
+      [
+        88,
+        "José Agra Cecilia",
+        103,
+        "VET M",
+        43,
+        "01h13m00s",
+        "Finalizado"
+      ],
+      [
+        89,
+        "Noemi Martin Plaza",
+        227,
+        "SÈN F",
+        12,
+        "01h29m04s",
+        "Finalizado"
+      ],
+      [
+        90,
+        "Jordi Amer Montesinos",
+        170,
+        "MÀS M",
+        34,
+        "01h19m20s",
+        "Finalizado"
+      ],
+      [
+        91,
+        "David Julià Comas",
+        173,
+        "VET M",
+        73,
+        "01h19m37s",
+        "Finalizado"
+      ],
+      [
+        92,
+        "Joan Munne Saperas",
+        133,
+        "MÀS M",
+        23,
+        "01h15m40s",
+        "Finalizado"
+      ],
+      [
+        93,
+        "Frank Navarro",
+        91,
+        "VET M",
+        37,
+        "01h11m41s",
+        "Finalizado"
+      ],
+      [
+        94,
+        "David Galán Parra",
+        209,
+        "VET M",
+        85,
+        "01h25m10s",
+        "Finalizado"
+      ],
+      [
+        95,
+        "Lucia Negredo Moreno",
+        0,
+        "MÀS F",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        96,
+        "Xavier Planas Montserrat",
+        111,
+        "VET M",
+        47,
+        "01h13m55s",
+        "Finalizado"
+      ],
+      [
+        97,
+        "Roser Pamias",
+        268,
+        "MÀS F",
+        7,
+        "01h38m33s",
+        "Finalizado"
+      ],
+      [
+        98,
+        "Francesc Martinez Gomila",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        99,
+        "Ricard Plaza Sendra",
+        86,
+        "SÈN M",
+        35,
+        "01h10m59s",
+        "Finalizado"
+      ],
+      [
+        100,
+        "Antonio Moya Sanchez",
+        214,
+        "VET M",
+        90,
+        "01h25m37s",
+        "Finalizado"
+      ],
+      [
+        101,
+        "Carles Beltran Zapico",
+        156,
+        "MÀS M",
+        28,
+        "01h17m55s",
+        "Finalizado"
+      ],
+      [
+        102,
+        "Julià Puig Sanchez",
+        39,
+        "VET M",
+        13,
+        "01h03m58s",
+        "Finalizado"
+      ],
+      [
+        103,
+        "Creu Palacín Cabañas",
+        200,
+        "MÀS F",
+        2,
+        "01h23m40s",
+        "Finalizado"
+      ],
+      [
+        104,
+        "Jose Antonio Sevilla Notario",
+        296,
+        "VET M",
+        107,
+        "01h50m54s",
+        "Finalizado"
+      ],
+      [
+        105,
+        "Daniel Catala Botella",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        106,
+        "Miguel Fiori Reggio",
+        266,
+        "MÀS M",
+        58,
+        "01h37m27s",
+        "Finalizado"
+      ],
+      [
+        107,
+        "Toni Fernández López",
+        4,
+        "VET M",
+        1,
+        "00h55m42s",
+        "Finalizado"
+      ],
+      [
+        108,
+        "José María Griñón Gómez",
+        41,
+        "MÀS M",
+        5,
+        "01h04m09s",
+        "Finalizado"
+      ],
+      [
+        109,
+        "Said Boulaich Zhiri",
+        218,
+        "VET M",
+        91,
+        "01h27m01s",
+        "Finalizado"
+      ],
+      [
+        110,
+        "Jose Manuel Mejías García",
+        188,
+        "MÀS M",
+        39,
+        "01h21m58s",
+        "Finalizado"
+      ],
+      [
+        111,
+        "Cristian Batet Fernandez",
+        217,
+        "SÈN M",
+        56,
+        "01h27m00s",
+        "Finalizado"
+      ],
+      [
+        112,
+        "Carlos Villalta Carrillo",
+        289,
+        "MÀS M",
+        63,
+        "01h47m52s",
+        "Finalizado"
+      ],
+      [
+        113,
+        "Mar Fernandez Gómez",
+        0,
+        "MÀS F",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        114,
+        "Fermín Gimeno Gimeno",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        115,
+        "Thaïs Raluy Ventoso",
+        300,
+        "SÈN F",
+        21,
+        "01h53m22s",
+        "Finalizado"
+      ],
+      [
+        116,
+        "Joan Muñoz Garcia",
+        220,
+        "VET M",
+        92,
+        "01h27m12s",
+        "Finalizado"
+      ],
+      [
+        117,
+        "Claire Altimiras Martínez",
+        278,
+        "MÀS F",
+        10,
+        "01h40m37s",
+        "Finalizado"
+      ],
+      [
+        118,
+        "Miguel Bea Alonso",
+        51,
+        "SÈN M",
+        27,
+        "01h06m20s",
+        "Finalizado"
+      ],
+      [
+        119,
+        "Jose Antonio Ruiz Ligero",
+        157,
+        "VET M",
+        66,
+        "01h17m56s",
+        "Finalizado"
+      ],
+      [
+        120,
+        "Rafael Ruiz Ligero",
+        189,
+        "MÀS M",
+        40,
+        "01h22m10s",
+        "Finalizado"
+      ],
+      [
+        121,
+        "Jesús Serra Giró",
+        160,
+        "MÀS M",
+        29,
+        "01h18m10s",
+        "Finalizado"
+      ],
+      [
+        122,
+        "Maria Checa Sierra",
+        310,
+        "MÀS F",
+        15,
+        "02h01m24s",
+        "Finalizado"
+      ],
+      [
+        123,
+        "Ricardo Gallardo",
+        105,
+        "VET M",
+        45,
+        "01h13m21s",
+        "Finalizado"
+      ],
+      [
+        124,
+        "Oriol Lorente Bassols",
+        72,
+        "VET M",
+        25,
+        "01h09m22s",
+        "Finalizado"
+      ],
+      [
+        125,
+        "Xavier España Serra",
+        116,
+        "MÀS M",
+        19,
+        "01h14m23s",
+        "Finalizado"
+      ],
+      [
+        126,
+        "Pierre Goyard",
+        54,
+        "VET M",
+        17,
+        "01h07m10s",
+        "Finalizado"
+      ],
+      [
+        127,
+        "Alberto Benavides Lopez",
+        244,
+        "MÀS M",
+        52,
+        "01h31m29s",
+        "Finalizado"
+      ],
+      [
+        128,
+        "Mercedes Cruz Martinez",
+        287,
+        "MÀS F",
+        11,
+        "01h44m39s",
+        "Finalizado"
+      ],
+      [
+        129,
+        "Jorge Garcia Lozano",
+        178,
+        "MÀS M",
+        36,
+        "01h20m39s",
+        "Finalizado"
+      ],
+      [
+        130,
+        "Jordi Liria Romero",
+        76,
+        "VET M",
+        28,
+        "01h09m54s",
+        "Finalizado"
+      ],
+      [
+        131,
+        "Cristina Garcia Esteve",
+        282,
+        "VET F",
+        25,
+        "01h42m19s",
+        "Finalizado"
+      ],
+      [
+        132,
+        "Lidia Torras Llort",
+        281,
+        "VET F",
+        24,
+        "01h42m18s",
+        "Finalizado"
+      ],
+      [
+        133,
+        "Jordi Cruxent Cort",
+        8,
+        "VET M",
+        2,
+        "00h57m23s",
+        "Finalizado"
+      ],
+      [
+        134,
+        "Daniel Fernández Bustamante",
+        106,
+        "SÈN M",
+        38,
+        "01h13m21s",
+        "Finalizado"
+      ],
+      [
+        135,
+        "Nicolau Roig",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        136,
+        "José Manuel álvarez Pachón",
+        164,
+        "MÀS M",
+        33,
+        "01h18m41s",
+        "Finalizado"
+      ],
+      [
+        137,
+        "Mercè Marcos Solias",
+        132,
+        "VET F",
+        5,
+        "01h15m39s",
+        "Finalizado"
+      ],
+      [
+        138,
+        "Neus Carbonell",
+        291,
+        "SÈN F",
+        19,
+        "01h50m02s",
+        "Finalizado"
+      ],
+      [
+        139,
+        "José Antonio Florentín Pérez",
+        65,
+        "MÀS M",
+        9,
+        "01h08m33s",
+        "Finalizado"
+      ],
+      [
+        140,
+        "Rebeca Guillen Bravo",
+        299,
+        "SÈN F",
+        20,
+        "01h53m21s",
+        "Finalizado"
+      ],
+      [
+        141,
+        "Albert Hilla Loureiro",
+        33,
+        "VET M",
+        12,
+        "01h02m53s",
+        "Finalizado"
+      ],
+      [
+        142,
+        "Josep Fuente Muntane",
+        102,
+        "VET M",
+        42,
+        "01h12m37s",
+        "Finalizado"
+      ],
+      [
+        143,
+        "Juan Galiano Gonzalez",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        144,
+        "Jesus Perez Morillo",
+        293,
+        "MÀS M",
+        64,
+        "01h50m54s",
+        "Finalizado"
+      ],
+      [
+        145,
+        "Esther Soronellas Mateo",
+        309,
+        "MÀS F",
+        14,
+        "01h56m28s",
+        "Finalizado"
+      ],
+      [
+        146,
+        "Isidoro Vazquez Fernandez",
+        64,
+        "VET M",
+        21,
+        "01h08m33s",
+        "Finalizado"
+      ],
+      [
+        147,
+        "Pere Minoves Serrano",
+        122,
+        "MÀS M",
+        20,
+        "01h14m48s",
+        "Finalizado"
+      ],
+      [
+        148,
+        "Rafael Ibáñez Ibáñez",
+        163,
+        "MÀS M",
+        32,
+        "01h18m40s",
+        "Finalizado"
+      ],
+      [
+        149,
+        "Antonio Rodríguez Guillén",
+        17,
+        "VET M",
+        7,
+        "01h00m33s",
+        "Finalizado"
+      ],
+      [
+        150,
+        "Oscar Rufete Castañe",
+        94,
+        "VET M",
+        39,
+        "01h12m00s",
+        "Finalizado"
+      ],
+      [
+        151,
+        "Ana Delgado Mesa",
+        203,
+        "VET F",
+        12,
+        "01h24m00s",
+        "Finalizado"
+      ],
+      [
+        152,
+        "José Luis Fernández Ferreira",
+        124,
+        "VET M",
+        53,
+        "01h15m00s",
+        "Finalizado"
+      ],
+      [
+        153,
+        "Anselmo Merino Rodríguez",
+        239,
+        "SÈN M",
+        59,
+        "01h31m09s",
+        "Finalizado"
+      ],
+      [
+        154,
+        "Antonio Gómez Pino",
+        201,
+        "MÀS M",
+        43,
+        "01h23m46s",
+        "Finalizado"
+      ],
+      [
+        155,
+        "Martin Bellavista Vertedor",
+        225,
+        "VET M",
+        95,
+        "01h28m27s",
+        "Finalizado"
+      ],
+      [
+        156,
+        "Javier Sanjuan Fernandez",
+        35,
+        "MÀS M",
+        4,
+        "01h03m05s",
+        "Finalizado"
+      ],
+      [
+        157,
+        "Carme Escorsell Pahisa",
+        259,
+        "VET F",
+        21,
+        "01h36m04s",
+        "Finalizado"
+      ],
+      [
+        158,
+        "Vicenç Presno Martin",
+        75,
+        "VET M",
+        27,
+        "01h09m48s",
+        "Finalizado"
+      ],
+      [
+        159,
+        "Joan Carles Luna Mesa",
+        83,
+        "VET M",
+        33,
+        "01h10m27s",
+        "Finalizado"
+      ],
+      [
+        160,
+        "Montse Bou Gual",
+        308,
+        "VET F",
+        32,
+        "01h56m27s",
+        "Finalizado"
+      ],
+      [
+        161,
+        "Jose Miguel Mateu Llamazares",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        162,
+        "Gemma Barrionuevo Sanz",
+        276,
+        "MÀS F",
+        9,
+        "01h40m12s",
+        "Finalizado"
+      ],
+      [
+        163,
+        "Sara Fructuoso",
+        199,
+        "VET F",
+        11,
+        "01h23m25s",
+        "Finalizado"
+      ],
+      [
+        164,
+        "Silvia Rodríguez De La Gándara",
+        255,
+        "MÀS F",
+        6,
+        "01h35m00s",
+        "Finalizado"
+      ],
+      [
+        165,
+        "Lara Mazón Godino",
+        71,
+        "SÈN F",
+        4,
+        "01h08m48s",
+        "Finalizado"
+      ],
+      [
+        166,
+        "Toni Trepat Muñoz",
+        37,
+        "SÈN M",
+        20,
+        "01h03m42s",
+        "Finalizado"
+      ],
+      [
+        167,
+        "Isabel Garcia Patiño",
+        274,
+        "VET F",
+        22,
+        "01h39m07s",
+        "Finalizado"
+      ],
+      [
+        168,
+        "Jose Gonzalez Anguita",
+        245,
+        "MÀS M",
+        53,
+        "01h31m30s",
+        "Finalizado"
+      ],
+      [
+        169,
+        "Florentina Sanchez Caldera",
+        238,
+        "MÀS F",
+        4,
+        "01h30m55s",
+        "Finalizado"
+      ],
+      [
+        170,
+        "Juan Manuel Arquillo Urbano",
+        219,
+        "MÀS M",
+        47,
+        "01h27m04s",
+        "Finalizado"
+      ],
+      [
+        171,
+        "José Molina Sánchez",
+        161,
+        "MÀS M",
+        30,
+        "01h18m10s",
+        "Finalizado"
+      ],
+      [
+        172,
+        "Elisabeth Terre Ruiz",
+        284,
+        "VET F",
+        27,
+        "01h43m10s",
+        "Finalizado"
+      ],
+      [
+        173,
+        "Degitu Jebesa Tolosa",
+        26,
+        "SÈN F",
+        1,
+        "01h01m59s",
+        "Finalizado"
+      ],
+      [
+        174,
+        "Francisco Ortega Moreno",
+        243,
+        "MÀS M",
+        51,
+        "01h31m26s",
+        "Finalizado"
+      ],
+      [
+        175,
+        "Sergio Gomez Dominguez",
+        63,
+        "SÈN M",
+        32,
+        "01h08m24s",
+        "Finalizado"
+      ],
+      [
+        176,
+        "Juan Gomez Ortiz",
+        272,
+        "MÀS M",
+        61,
+        "01h38m43s",
+        "Finalizado"
+      ],
+      [
+        177,
+        "Adrián Pozo Gutiérrez",
+        0,
+        "SÈN M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        178,
+        "Osorio Osorio",
+        0,
+        "SÈN M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        179,
+        "Ester García Vidal",
+        167,
+        "SÈN F",
+        6,
+        "01h19m00s",
+        "Finalizado"
+      ],
+      [
+        180,
+        "Marteta Sanz",
+        179,
+        "SÈN F",
+        9,
+        "01h20m41s",
+        "Finalizado"
+      ],
+      [
+        181,
+        "Josep Beltran Bausells",
+        192,
+        "SÈN M",
+        52,
+        "01h22m35s",
+        "Finalizado"
+      ],
+      [
+        182,
+        "Francisco Castillo Misas",
+        45,
+        "VET M",
+        15,
+        "01h05m40s",
+        "Finalizado"
+      ],
+      [
+        183,
+        "Jose Maria Bonet Lechuga",
+        183,
+        "MÀS M",
+        37,
+        "01h21m29s",
+        "Finalizado"
+      ],
+      [
+        184,
+        "Pedro Perez Hernandez",
+        0,
+        "MÀS M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        185,
+        "Iban Pérez I Nadal",
+        31,
+        "SÈN M",
+        16,
+        "01h02m31s",
+        "Finalizado"
+      ],
+      [
+        186,
+        "Fredesvindo Silva Zarate",
+        38,
+        "SÈN M",
+        21,
+        "01h03m48s",
+        "Finalizado"
+      ],
+      [
+        187,
+        "Mercè Oliver Martinez",
+        232,
+        "VET F",
+        14,
+        "01h30m24s",
+        "Finalizado"
+      ],
+      [
+        188,
+        "Manuel Cerdan Hernanadez",
+        85,
+        "VET M",
+        34,
+        "01h10m31s",
+        "Finalizado"
+      ],
+      [
+        189,
+        "Judit Pijoan Negre",
+        247,
+        "VET F",
+        18,
+        "01h31m34s",
+        "Finalizado"
+      ],
+      [
+        190,
+        "Cati Serrano Granados",
+        273,
+        "MÀS F",
+        8,
+        "01h39m04s",
+        "Finalizado"
+      ],
+      [
+        191,
+        "Angel - Pedro Pérez Gómez",
+        146,
+        "VET M",
+        61,
+        "01h16m42s",
+        "Finalizado"
+      ],
+      [
+        192,
+        "Sergi Pérez Llorente",
+        81,
+        "SÈN M",
+        34,
+        "01h10m25s",
+        "Finalizado"
+      ],
+      [
+        193,
+        "Ricardo Reyes Trujillo",
+        118,
+        "VET M",
+        51,
+        "01h14m29s",
+        "Finalizado"
+      ],
+      [
+        194,
+        "Juan De Dios Cabanillas Garcia",
+        68,
+        "VET M",
+        22,
+        "01h08m39s",
+        "Finalizado"
+      ],
+      [
+        195,
+        "Jose Antonio Sanchez Garcia",
+        120,
+        "SÈN M",
+        42,
+        "01h14m32s",
+        "Finalizado"
+      ],
+      [
+        196,
+        "Emilio Lopez Rodriguez",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        197,
+        "Lourdes Barrero Castelo",
+        0,
+        "VET F",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        198,
+        "David Sanchez Ortiz",
+        34,
+        "SÈN M",
+        18,
+        "01h02m59s",
+        "Finalizado"
+      ],
+      [
+        199,
+        "Raül González",
+        18,
+        "SÈN M",
+        10,
+        "01h00m43s",
+        "Finalizado"
+      ],
+      [
+        200,
+        "Andrés Ochoa Castány",
+        144,
+        "VET M",
+        59,
+        "01h16m31s",
+        "Finalizado"
+      ],
+      [
+        201,
+        "George Restrepo",
+        280,
+        "VET M",
+        103,
+        "01h41m44s",
+        "Finalizado"
+      ],
+      [
+        202,
+        "Victor Alonso Fons",
+        143,
+        "SÈN M",
+        48,
+        "01h16m29s",
+        "Finalizado"
+      ],
+      [
+        203,
+        "Sergio Baena Mirabete",
+        115,
+        "SÈN M",
+        41,
+        "01h14m07s",
+        "Finalizado"
+      ],
+      [
+        204,
+        "Jesus Lara Sabalete",
+        175,
+        "SÈN M",
+        50,
+        "01h19m58s",
+        "Finalizado"
+      ],
+      [
+        205,
+        "David Valls Lázaro",
+        10,
+        "VET M",
+        3,
+        "00h57m41s",
+        "Finalizado"
+      ],
+      [
+        206,
+        "Joan Domenech Isart",
+        269,
+        "MÀS M",
+        60,
+        "01h38m34s",
+        "Finalizado"
+      ],
+      [
+        207,
+        "Julián Antón Such",
+        25,
+        "VET M",
+        9,
+        "01h01m47s",
+        "Finalizado"
+      ],
+      [
+        208,
+        "Isabel Quesada Salvador",
+        0,
+        "SÈN F",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        209,
+        "Toni Quesada Salvador",
+        313,
+        "SÈN M",
+        66,
+        "02h08m26s",
+        "Finalizado"
+      ],
+      [
+        210,
+        "Sheila Fernández Pueyo",
+        290,
+        "SÈN F",
+        18,
+        "01h49m28s",
+        "Finalizado"
+      ],
+      [
+        211,
+        "Oscar Pastor Elias",
+        212,
+        "VET M",
+        88,
+        "01h25m28s",
+        "Finalizado"
+      ],
+      [
+        212,
+        "Adrià Garcia De Paredes Maymo",
+        32,
+        "SÈN M",
+        17,
+        "01h02m32s",
+        "Finalizado"
+      ],
+      [
+        213,
+        "Raül Garrido Medina",
+        260,
+        "SÈN M",
+        62,
+        "01h36m09s",
+        "Finalizado"
+      ],
+      [
+        214,
+        "Manuel Mesa Luque",
+        87,
+        "MÀS M",
+        12,
+        "01h11m21s",
+        "Finalizado"
+      ],
+      [
+        215,
+        "Miguel Angel Rios Sanchez",
+        50,
+        "MÀS M",
+        7,
+        "01h06m12s",
+        "Finalizado"
+      ],
+      [
+        216,
+        "Maria Alonso Romero",
+        258,
+        "VET F",
+        20,
+        "01h36m04s",
+        "Finalizado"
+      ],
+      [
+        217,
+        "Maria Del Mar Barral Gonzalves",
+        262,
+        "SÈN F",
+        17,
+        "01h36m22s",
+        "Finalizado"
+      ],
+      [
+        218,
+        "Oscar Grau Gallego",
+        108,
+        "MÀS M",
+        17,
+        "01h13m27s",
+        "Finalizado"
+      ],
+      [
+        219,
+        "Ricardo Andreu Alvarado",
+        113,
+        "MÀS M",
+        18,
+        "01h14m06s",
+        "Finalizado"
+      ],
+      [
+        220,
+        "Daniel Garcia Muñoz",
+        9,
+        "SÈN M",
+        6,
+        "00h57m36s",
+        "Finalizado"
+      ],
+      [
+        221,
+        "David Pérez Ballester",
+        193,
+        "SÈN M",
+        53,
+        "01h22m36s",
+        "Finalizado"
+      ],
+      [
+        222,
+        "Andrés Aranda Delgado",
+        70,
+        "VET M",
+        24,
+        "01h08m46s",
+        "Finalizado"
+      ],
+      [
+        223,
+        "Montse Barjuan",
+        286,
+        "VET F",
+        28,
+        "01h44m30s",
+        "Finalizado"
+      ],
+      [
+        224,
+        "Marc Tort Sonet",
+        110,
+        "SÈN M",
+        40,
+        "01h13m51s",
+        "Finalizado"
+      ],
+      [
+        225,
+        "Oliver Teixido Navarro",
+        126,
+        "SÈN M",
+        45,
+        "01h15m10s",
+        "Finalizado"
+      ],
+      [
+        226,
+        "Manuel Bermejo Siciliana",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        227,
+        "Alfonso Galeano Godoy",
+        88,
+        "VET M",
+        35,
+        "01h11m24s",
+        "Finalizado"
+      ],
+      [
+        228,
+        "Alberto Vázquez Lopez",
+        171,
+        "VET M",
+        71,
+        "01h19m34s",
+        "Finalizado"
+      ],
+      [
+        229,
+        "Manuel Yáñez Martinez",
+        92,
+        "VET M",
+        38,
+        "01h11m44s",
+        "Finalizado"
+      ],
+      [
+        230,
+        "Xavi Asensio Lobera",
+        216,
+        "SÈN M",
+        55,
+        "01h26m59s",
+        "Finalizado"
+      ],
+      [
+        231,
+        "Cristobal Castellon Ballabriga",
+        211,
+        "VET M",
+        87,
+        "01h25m22s",
+        "Finalizado"
+      ],
+      [
+        232,
+        "Juan Martos Perea",
+        253,
+        "MÀS M",
+        55,
+        "01h34m45s",
+        "Finalizado"
+      ],
+      [
+        233,
+        "Ernesto Millán De Prado",
+        6,
+        "SÈN M",
+        5,
+        "00h56m04s",
+        "Finalizado"
+      ],
+      [
+        234,
+        "Cristian Llacuna",
+        43,
+        "SÈN M",
+        23,
+        "01h05m11s",
+        "Finalizado"
+      ],
+      [
+        235,
+        "Martí Boneta I Carrera",
+        279,
+        "MÀS M",
+        62,
+        "01h41m20s",
+        "Finalizado"
+      ],
+      [
+        236,
+        "Javier Medina Gomez",
+        90,
+        "VET M",
+        36,
+        "01h11m34s",
+        "Finalizado"
+      ],
+      [
+        237,
+        "Didac Fuentes Gallego",
+        226,
+        "SÈN M",
+        57,
+        "01h28m47s",
+        "Finalizado"
+      ],
+      [
+        238,
+        "Marcel Criado Cañellas",
+        275,
+        "SÈN M",
+        65,
+        "01h40m08s",
+        "Finalizado"
+      ],
+      [
+        239,
+        "Jeronimo Sanchez Garrido",
+        248,
+        "MÀS M",
+        54,
+        "01h33m05s",
+        "Finalizado"
+      ],
+      [
+        240,
+        "Francisco Villanueva",
+        241,
+        "MÀS M",
+        50,
+        "01h31m15s",
+        "Finalizado"
+      ],
+      [
+        241,
+        "Sergio Riquelme Roig",
+        99,
+        "MÀS M",
+        16,
+        "01h12m24s",
+        "Finalizado"
+      ],
+      [
+        242,
+        "Roger Gil Mir",
+        129,
+        "MÀS M",
+        22,
+        "01h15m27s",
+        "Finalizado"
+      ],
+      [
+        243,
+        "Elena Perez Termes",
+        127,
+        "VET F",
+        4,
+        "01h15m11s",
+        "Finalizado"
+      ],
+      [
+        244,
+        "Nati Rubio Martínez",
+        82,
+        "VET F",
+        2,
+        "01h10m26s",
+        "Finalizado"
+      ],
+      [
+        245,
+        "Juan Luis Gallego Moreno",
+        207,
+        "VET M",
+        84,
+        "01h24m34s",
+        "Finalizado"
+      ],
+      [
+        246,
+        "Antonio Varela Castaño",
+        80,
+        "VET M",
+        32,
+        "01h10m21s",
+        "Finalizado"
+      ],
+      [
+        247,
+        "Vicenç Bou Hari",
+        107,
+        "SÈN M",
+        39,
+        "01h13m23s",
+        "Finalizado"
+      ],
+      [
+        248,
+        "Jordi Castells Berzosa",
+        223,
+        "VET M",
+        94,
+        "01h28m18s",
+        "Finalizado"
+      ],
+      [
+        249,
+        "Glòria Dot Miró",
+        222,
+        "SÈN F",
+        11,
+        "01h28m18s",
+        "Finalizado"
+      ],
+      [
+        250,
+        "Jesus Vazquez Martin",
+        24,
+        "SÈN M",
+        13,
+        "01h01m47s",
+        "Finalizado"
+      ],
+      [
+        251,
+        "Elisabeth Comas",
+        136,
+        "VET F",
+        6,
+        "01h15m46s",
+        "Finalizado"
+      ],
+      [
+        252,
+        "Miguel Esteban García",
+        267,
+        "MÀS M",
+        59,
+        "01h38m03s",
+        "Finalizado"
+      ],
+      [
+        253,
+        "Xoan Borrajo ",
+        213,
+        "VET M",
+        89,
+        "01h25m30s",
+        "Finalizado"
+      ],
+      [
+        254,
+        "Toni Roldán",
+        141,
+        "VET M",
+        58,
+        "01h16m12s",
+        "Finalizado"
+      ],
+      [
+        255,
+        "Jorge Paredes De Cristo",
+        210,
+        "VET M",
+        86,
+        "01h25m22s",
+        "Finalizado"
+      ],
+      [
+        256,
+        "Marta Vasquez Lara",
+        198,
+        "VET F",
+        10,
+        "01h23m24s",
+        "Finalizado"
+      ],
+      [
+        257,
+        "Paqui Latorre Palacios",
+        246,
+        "VET F",
+        17,
+        "01h31m31s",
+        "Finalizado"
+      ],
+      [
+        258,
+        "Luis Miguel Fernández Molina",
+        69,
+        "VET M",
+        23,
+        "01h08m40s",
+        "Finalizado"
+      ],
+      [
+        259,
+        "Nuria Galvan Blazquez",
+        298,
+        "VET F",
+        31,
+        "01h50m55s",
+        "Finalizado"
+      ],
+      [
+        260,
+        "Jose Javier Santiago Troyano",
+        292,
+        "VET M",
+        105,
+        "01h50m53s",
+        "Finalizado"
+      ],
+      [
+        261,
+        "David Gabaldón Canal",
+        186,
+        "VET M",
+        78,
+        "01h21m49s",
+        "Finalizado"
+      ],
+      [
+        262,
+        "Iván Duro Sanchez",
+        23,
+        "VET M",
+        8,
+        "01h01m18s",
+        "Finalizado"
+      ],
+      [
+        263,
+        "Josep Maria Valls Esteve",
+        172,
+        "VET M",
+        72,
+        "01h19m37s",
+        "Finalizado"
+      ],
+      [
+        264,
+        "Manuel Perez Carmona",
+        19,
+        "MÀS M",
+        2,
+        "01h00m44s",
+        "Finalizado"
+      ],
+      [
+        265,
+        "Joan Nadal Suarez",
+        52,
+        "MÀS M",
+        8,
+        "01h06m41s",
+        "Finalizado"
+      ],
+      [
+        266,
+        "Albert Enrich Font",
+        159,
+        "VET M",
+        67,
+        "01h18m09s",
+        "Finalizado"
+      ],
+      [
+        267,
+        "Manolo Olmos Perez",
+        101,
+        "SÈN M",
+        37,
+        "01h12m32s",
+        "Finalizado"
+      ],
+      [
+        268,
+        "Sergio Santos Garcia",
+        16,
+        "SÈN M",
+        9,
+        "01h00m30s",
+        "Finalizado"
+      ],
+      [
+        269,
+        "Oscar Moya Fernandez",
+        48,
+        "VET M",
+        16,
+        "01h06m09s",
+        "Finalizado"
+      ],
+      [
+        270,
+        "Quico Lacambra Lafuente",
+        74,
+        "MÀS M",
+        10,
+        "01h09m48s",
+        "Finalizado"
+      ],
+      [
+        271,
+        "Marc Lacambra Jimenez",
+        148,
+        "SÈN M",
+        49,
+        "01h16m46s",
+        "Finalizado"
+      ],
+      [
+        272,
+        "Carlos Pérez Guerrero",
+        5,
+        "SÈN M",
+        4,
+        "00h55m46s",
+        "Finalizado"
+      ],
+      [
+        273,
+        "Juan Marcó Montiel",
+        180,
+        "VET M",
+        75,
+        "01h21m03s",
+        "Finalizado"
+      ],
+      [
+        274,
+        "Josep Maria Tillo Bages",
+        230,
+        "MÀS M",
+        49,
+        "01h30m02s",
+        "Finalizado"
+      ],
+      [
+        275,
+        "Carles Casanellas I Parellada",
+        109,
+        "VET M",
+        46,
+        "01h13m43s",
+        "Finalizado"
+      ],
+      [
+        276,
+        "Enric Guillén Belmez",
+        196,
+        "VET M",
+        82,
+        "01h23m14s",
+        "Finalizado"
+      ],
+      [
+        277,
+        "Domenech Costabella Domenech Costabella",
+        0,
+        "SÈN F",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        278,
+        "Imanol Zamora Povea",
+        194,
+        "SÈN M",
+        54,
+        "01h23m06s",
+        "Finalizado"
+      ],
+      [
+        279,
+        "Ivan Fresno Gonzalez",
+        20,
+        "SÈN M",
+        11,
+        "01h00m45s",
+        "Finalizado"
+      ],
+      [
+        280,
+        "David Junyent Almirall",
+        57,
+        "SÈN M",
+        28,
+        "01h07m48s",
+        "Finalizado"
+      ],
+      [
+        281,
+        "Raul Pelaez Baudet",
+        231,
+        "SÈN M",
+        58,
+        "01h30m22s",
+        "Finalizado"
+      ],
+      [
+        282,
+        "Gabriel Hernando Buendia",
+        56,
+        "VET M",
+        19,
+        "01h07m30s",
+        "Finalizado"
+      ],
+      [
+        283,
+        "José Luis García López",
+        140,
+        "VET M",
+        57,
+        "01h16m11s",
+        "Finalizado"
+      ],
+      [
+        284,
+        "Jesus Marquez Moreno",
+        233,
+        "VET M",
+        96,
+        "01h30m27s",
+        "Finalizado"
+      ],
+      [
+        285,
+        "Sofia Martinez Gonzalez",
+        142,
+        "VET F",
+        8,
+        "01h16m21s",
+        "Finalizado"
+      ],
+      [
+        286,
+        "Emi Jimenez Sanchez",
+        28,
+        "VET M",
+        10,
+        "01h02m13s",
+        "Finalizado"
+      ],
+      [
+        287,
+        "Olalla María Blanco Morado",
+        206,
+        "SÈN F",
+        10,
+        "01h24m22s",
+        "Finalizado"
+      ],
+      [
+        288,
+        "Diego Rodriguez Fernández",
+        29,
+        "VET M",
+        11,
+        "01h02m15s",
+        "Finalizado"
+      ],
+      [
+        289,
+        "Joan Prados Moreno",
+        79,
+        "VET M",
+        31,
+        "01h10m19s",
+        "Finalizado"
+      ],
+      [
+        290,
+        "Angel Luis Aural Machin",
+        152,
+        "VET M",
+        64,
+        "01h17m30s",
+        "Finalizado"
+      ],
+      [
+        291,
+        "Nuria Vila Gallego",
+        283,
+        "VET F",
+        26,
+        "01h42m37s",
+        "Finalizado"
+      ],
+      [
+        292,
+        "Marc Tobarias",
+        252,
+        "VET M",
+        99,
+        "01h34m30s",
+        "Finalizado"
+      ],
+      [
+        293,
+        "David Rubio Felez",
+        125,
+        "SÈN M",
+        44,
+        "01h15m01s",
+        "Finalizado"
+      ],
+      [
+        294,
+        "Marc Batlle Duran",
+        256,
+        "SÈN M",
+        61,
+        "01h35m13s",
+        "Finalizado"
+      ],
+      [
+        295,
+        "Jaume Bayona Vilà",
+        128,
+        "MÀS M",
+        21,
+        "01h15m21s",
+        "Finalizado"
+      ],
+      [
+        296,
+        "Joaquin Polo Hernandez",
+        123,
+        "SÈN M",
+        43,
+        "01h14m54s",
+        "Finalizado"
+      ],
+      [
+        297,
+        "Daniel Gomez Picon",
+        36,
+        "SÈN M",
+        19,
+        "01h03m22s",
+        "Finalizado"
+      ],
+      [
+        298,
+        "Victor Fernández Hurtado",
+        21,
+        "SÈN M",
+        12,
+        "01h00m46s",
+        "Finalizado"
+      ],
+      [
+        299,
+        "Sergi Rico Garcia",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        300,
+        "Marta Duran",
+        249,
+        "SÈN F",
+        16,
+        "01h33m08s",
+        "Finalizado"
+      ],
+      [
+        301,
+        "Miguel Angel Boquete Saiz",
+        11,
+        "SÈN M",
+        7,
+        "00h58m20s",
+        "Finalizado"
+      ],
+      [
+        302,
+        "Josep Oriol Bernad Marcos",
+        181,
+        "SÈN M",
+        51,
+        "01h21m07s",
+        "Finalizado"
+      ],
+      [
+        303,
+        "Anna Naveira Martínez",
+        306,
+        "SÈN F",
+        23,
+        "01h55m45s",
+        "Finalizado"
+      ],
+      [
+        304,
+        "David Sanchis Andres",
+        73,
+        "VET M",
+        26,
+        "01h09m48s",
+        "Finalizado"
+      ],
+      [
+        305,
+        "María Teresa Marcos Perea",
+        305,
+        "MÀS F",
+        13,
+        "01h55m40s",
+        "Finalizado"
+      ],
+      [
+        306,
+        "Toni Aguilar Escobar",
+        121,
+        "VET M",
+        52,
+        "01h14m37s",
+        "Finalizado"
+      ],
+      [
+        307,
+        "Jose Luis Rubio Marticella",
+        7,
+        "MÀS M",
+        1,
+        "00h57m06s",
+        "Finalizado"
+      ],
+      [
+        308,
+        "Aniceto Urbina Rubio",
+        307,
+        "MÀS M",
+        67,
+        "01h56m21s",
+        "Finalizado"
+      ],
+      [
+        309,
+        "Rubén Hernández Sánchez",
+        195,
+        "VET M",
+        81,
+        "01h23m12s",
+        "Finalizado"
+      ],
+      [
+        310,
+        "Carlos Chicharro",
+        224,
+        "MÀS M",
+        48,
+        "01h28m20s",
+        "Finalizado"
+      ],
+      [
+        311,
+        "Eduardo Sola Bernal",
+        49,
+        "SÈN M",
+        26,
+        "01h06m11s",
+        "Finalizado"
+      ],
+      [
+        312,
+        "Ma Ascensio Gonzalez Rodriguez",
+        302,
+        "MÀS F",
+        12,
+        "01h54m22s",
+        "Finalizado"
+      ],
+      [
+        313,
+        "Jose Manuel Segade Quintela",
+        185,
+        "VET M",
+        77,
+        "01h21m48s",
+        "Finalizado"
+      ],
+      [
+        314,
+        "Joan Latorre Segarra",
+        61,
+        "SÈN M",
+        30,
+        "01h08m07s",
+        "Finalizado"
+      ],
+      [
+        315,
+        "Montse Valls Palou",
+        151,
+        "SÈN F",
+        5,
+        "01h17m26s",
+        "Finalizado"
+      ],
+      [
+        316,
+        "Gregorio Ayuso Navarro",
+        12,
+        "VET M",
+        4,
+        "00h58m24s",
+        "Finalizado"
+      ],
+      [
+        317,
+        "Rosa Maria Giberga Conde",
+        254,
+        "VET F",
+        19,
+        "01h34m59s",
+        "Finalizado"
+      ],
+      [
+        318,
+        "Salvador Ponce Zamudio",
+        184,
+        "MÀS M",
+        38,
+        "01h21m41s",
+        "Finalizado"
+      ],
+      [
+        319,
+        "Antonio Rienda Sanchez",
+        84,
+        "MÀS M",
+        11,
+        "01h10m28s",
+        "Finalizado"
+      ],
+      [
+        320,
+        "Jose Luis Pescador Ciruela",
+        176,
+        "VET M",
+        74,
+        "01h20m26s",
+        "Finalizado"
+      ],
+      [
+        321,
+        "Lidia Flores Vilchez",
+        177,
+        "SÈN F",
+        8,
+        "01h20m26s",
+        "Finalizado"
+      ],
+      [
+        322,
+        "Nacho Saenz Pascual",
+        98,
+        "VET M",
+        40,
+        "01h12m21s",
+        "Finalizado"
+      ],
+      [
+        323,
+        "Rafael Castro",
+        221,
+        "VET M",
+        93,
+        "01h27m56s",
+        "Finalizado"
+      ],
+      [
+        324,
+        "Eduardo Milla Ijalba",
+        30,
+        "SÈN M",
+        15,
+        "01h02m27s",
+        "Finalizado"
+      ],
+      [
+        325,
+        "Jesus Sanchez Gonzalez",
+        257,
+        "VET M",
+        100,
+        "01h36m01s",
+        "Finalizado"
+      ],
+      [
+        326,
+        "Javier Nuñez Crespo",
+        187,
+        "VET M",
+        79,
+        "01h21m56s",
+        "Finalizado"
+      ],
+      [
+        327,
+        "Sergio Burgos Urbano",
+        40,
+        "VET M",
+        14,
+        "01h04m07s",
+        "Finalizado"
+      ],
+      [
+        328,
+        "Renan Morocho",
+        0,
+        "VET M",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        329,
+        "Tino  Palencia",
+        42,
+        "SÈN M",
+        22,
+        "01h04m42s",
+        "Finalizado"
+      ],
+      [
+        330,
+        "Jose Felix Felix ",
+        15,
+        "SÈN M",
+        8,
+        "00h59m56s",
+        "Finalizado"
+      ],
+      [
+        331,
+        "Santi  Polo",
+        67,
+        "SÈN M",
+        33,
+        "01h08m37s",
+        "Finalizado"
+      ],
+      [
+        332,
+        "Eladio Morales",
+        261,
+        "MÀS M",
+        56,
+        "01h36m14s",
+        "Finalizado"
+      ],
+      [
+        333,
+        "Eladio  Morales",
+        311,
+        "MÀS M",
+        68,
+        "02h03m35s",
+        "Finalizado"
+      ],
+      [
+        334,
+        "Renan Morocho",
+        294,
+        "VET M",
+        106,
+        "01h50m54s",
+        "Finalizado"
+      ],
+      [
+        335,
+        "Lluis  Tort",
+        3,
+        "SÈN M",
+        3,
+        "00h54m42s",
+        "Finalizado"
+      ],
+      [
+        336,
+        "Guillermo Correas",
+        62,
+        "SÈN M",
+        31,
+        "01h08m08s",
+        "Finalizado"
+      ],
+      [
+        337,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        338,
+        "Laura  Claramunt",
+        312,
+        "SÈN F",
+        24,
+        "02h07m59s",
+        "Finalizado"
+      ],
+      [
+        339,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        340,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        341,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        342,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        343,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        344,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        345,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        346,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        347,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        348,
+        " ",
+        0,
+        "",
+        0,
+        "",
+        "Abandono"
+      ],
+      [
+        349,
+        " ",
+        301,
+        "",
+        0,
+        "01h54m20s",
+        "Finalizado"
+      ]
+    ]
+  }
+}
